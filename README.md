@@ -12,6 +12,5 @@ Volunteer – aplikim për të bërë ndryshim
 Donate – formular për donacion
 Contact – informacion kontakti
 
-Projekti është hostuar në GitHub Pages:  https://ersa-mustafa.github.io/Sirius/
 
 Jam e hapur për sugjerime, ide dhe përmirësime që mund ta bëjnë këtë yll të vogël të shkëlqejë edhe më shumë.
